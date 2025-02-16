@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=diaanapaiva&label=Profile%20views&color=0e75b6&style=flat" alt="diaanapaiva" /> </p>
 
-<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=diaanapaiva" alt="diaanapaiva" /></a> </p>
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=diaanapaiva" alt="diaanapaiva" /></a> </p>
 
  
 - ⚡ Estou estudando sobre **Python, Java, Desenvolvimento Web**
