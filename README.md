@@ -1,10 +1,7 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/887812799038902342/1340729337078353930/bem.png?ex=67b36aff&is=67b2197f&hm=e9d46fae74c6c1fc7e96ae55509efe8b53f35c793ca9b9b318ed488c26de7e61&)](https://www.seaart.ai/pt)
-<h1 align="center">Oii, eu sou a Diana!</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=diaanapaiva&label=Profile%20views&color=0e75b6&style=flat" alt="diaanapaiva" /> </p>
-
-<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=diaanapaiva" alt="diaanapaiva" /></a> </p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6A088D&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Diana!;Sou+estudante+de+An%C3%A1lise+e;Desenvolvimento+de+Sistemas" alt="Typing SVG" /></a>
 
  
-- ⚡ Estou estudando sobre **Python, Java, Desenvolvimento Web**
+<p align="center">- ⚡ Estou estudando sobre Python, Java, Java Script e Desenvolvimento de Software para Web.
+
+
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=diaanapaiva&theme=tokyonight-duo&hide_longest_streak=true" alt="GitHub Streak" /></a><p align="right"> <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fdiaanapaiva&s=30&c=781fd1&bg=00000000&no=2&ff=electrolize&tb=&ta=" alt="visits"> </p>
