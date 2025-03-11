@@ -1,6 +1,6 @@
 # Diana Paiva
 
-<p align="right"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fdiaanapaiva&s=18&c=149ff5&bg=00000000&no=3&ff=electrolize&tb=&ta=" alt="visits">
+<p align="right"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fdiaanapaiva&s=18&c=9354f2&bg=00000000&no=3&ff=digi&tb=&ta=" alt="visits">
     <a 
         <a href="https://www.linkedin.com/in/diaanapaiva" 
         target="_blank"
@@ -12,7 +12,7 @@
         >
     </a>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem+vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9354F2&width=435&lines=Bem+vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 
 **`Olá, me chamo Diana, atualmente estou cursando a graduação em Análise e Desenvolvimento de Sistemas.`**
 <br>
@@ -84,7 +84,7 @@
     <img 
       align="left" 
       alt="GitHub Stats" 
-      height="145"
+      height="140"
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaanapaiva&theme=buefy&layout=compact&custom_title=Tecnologias&langs_count=9" 
     /> 
