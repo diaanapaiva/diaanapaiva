@@ -64,26 +64,26 @@
 <br>
 <br>
 
-###📊 Estatísticas
+### 📊 Estatísticas
 
 <p>
     <img 
       align="left" 
       alt="GitHub Stats" 
-      height="125" 
+      height="140" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=diaanapaiva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api?username=diaanapaiva&show_icons=true&theme=buefy" 
     />
     <img 
       align="left" 
       alt="Codewars Stats" 
-      height="125"  
-      src="https://github.r2v.ch/codewars?user=diaanapaiva&stroke=%23BB432C"
+      height="140"  
+      src="https://github.r2v.ch/codewars?user=diaanapaiva&name=true&top_languages=true&stroke=%23b362ff&theme=purple_light"
     /> 
     <img 
       align="left" 
       alt="GitHub Stats" 
-      height="193"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaanapaiva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="145"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaanapaiva&theme=buefy&layout=compact&custom_title=Tecnologias&langs_count=9" 
     /> 
 </p>
