@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Diana Paiva
+# Diana Paiva
 
 <p align="right"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fdiaanapaiva&s=18&c=149ff5&bg=00000000&no=3&ff=electrolize&tb=&ta=" alt="visits">
     <a 
@@ -18,7 +18,7 @@
 <br>
 **`Sou autodidata, entusiasta da cultura sul coreana, adoro estudar e jogar!`**
 
-### 💻 Linguagens e Tecnologias
+## 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -64,7 +64,7 @@
 <br>
 <br>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
     <img 
@@ -77,13 +77,15 @@
     <img 
       align="left" 
       alt="Codewars Stats" 
-      height="140"  
+      height="140"
+      style="padding-right: 10px;"
       src="https://github.r2v.ch/codewars?user=diaanapaiva&name=true&top_languages=true&stroke=%23b362ff&theme=purple_light"
     /> 
     <img 
       align="left" 
       alt="GitHub Stats" 
       height="145"
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaanapaiva&theme=buefy&layout=compact&custom_title=Tecnologias&langs_count=9" 
     /> 
 </p>
